@@ -7,5 +7,6 @@ int main()
     printf("Ola mundo!!\n");
     printf("Astalavista\n");
     printf("Tchau belo!!\n");
+    printf("Mensagem para aparecer no gitgub\n");
     return 0;
 }
